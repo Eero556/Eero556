@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Eero556
+- 👋 Hi, I’m @Eero Kantonen
 - 👀 I’m interested in sofware development
 - 🌱 I’m currently learning react and react native
 - 📫 Send me text on linkedin
